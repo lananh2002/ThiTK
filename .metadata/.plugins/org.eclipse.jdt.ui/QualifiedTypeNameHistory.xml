@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="ThiGK.Xe"/>
+    <fullyQualifiedTypeName name="lananh.NhanVien"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="lananh.GiangVien"/>
+    <fullyQualifiedTypeName name="lananh.NhanVienNghienCuu"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="lananh.NhanVienVanPhong"/>
 </qualifiedTypeNameHistroy>

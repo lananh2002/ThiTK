@@ -43,12 +43,8 @@ public class QuanLyNhanVien {
 	                	System.out.println( cuus);
 	                    break;
 	                case 3:
-	                	NhanVienVanPhong nhanVienVanPhong = new NhanVienVanPhong("1", "Hoang", LocalDate.of(2023, 6, 15), 2, 20);
-	                	NhanVienVanPhong nhanVienVanPhong1 = new NhanVienVanPhong("2", "Anh", LocalDate.of(2023, 7, 25), 2, 5);
-	                	ArrayList<NhanVienVanPhong> nhanVienVanPhongs = new ArrayList<NhanVienVanPhong>();
-	                	nhanVienVanPhongs.add(nhanVienVanPhong);
-	                	nhanVienVanPhongs.add(nhanVienVanPhong1);
-	            		System.out.println(nhanVienVanPhongs);
+	                	NhanVienVanPhong nhanVienVanPhong = new NhanVienVanPhong("CCC", "Hoang", LocalDate.of(2023, 6, 15), 2, 20);
+	            		System.out.println(nhanVienVanPhong);
 	                    break;
 	            }
 	        }
