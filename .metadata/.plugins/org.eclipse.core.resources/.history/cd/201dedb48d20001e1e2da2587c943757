@@ -1,0 +1,9 @@
+package lananh;
+
+public class GiangVien extends NhanVien{
+	private double soTiet; 
+	private double soDeTai; 
+	
+	
+
+}

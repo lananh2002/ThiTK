@@ -1,0 +1,8 @@
+package lananh;
+
+public class NhanVienNghienCuu extends NhanVien{
+	private double soDeTaiNC; 
+	private double soBaiBao; 
+	
+	
+}

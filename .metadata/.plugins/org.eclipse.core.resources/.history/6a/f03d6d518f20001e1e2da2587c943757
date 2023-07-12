@@ -1,0 +1,8 @@
+package lananh;
+
+public class NhanVienVanPhong extends NhanVien{
+	private double soLopBoiDuongCM; 
+	private double soGioThamGiaLD; 
+	
+	
+}
