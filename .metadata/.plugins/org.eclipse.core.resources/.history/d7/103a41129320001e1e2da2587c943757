@@ -9,7 +9,7 @@ public class Main {
 		System.out.println(giangVien +"\n");
 		
 		NhanVienNghienCuu cuu = new NhanVienNghienCuu("BB", "Nguyen Van A", LocalDate.of(2023, 5, 20), 2, 3);
-		System.out.println(cuu +"\n");
+		System.out.println(cuu  +"\n");
 
 		
 		NhanVienVanPhong nhanVienVanPhong = new NhanVienVanPhong("CCC", "Hoang", LocalDate.of(2023, 6, 15), 2, 20);
